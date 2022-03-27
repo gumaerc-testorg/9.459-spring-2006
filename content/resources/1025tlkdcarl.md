@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d76c2cf-cfdf-0c79-ffbf-46cf305209d6
 resourcetype: Document
 title: 1025tlkdcarl.pdf
 uid: 2aa7fbca-7cd8-564c-1960-f7a5aa02b700

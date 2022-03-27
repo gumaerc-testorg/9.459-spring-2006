@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d76c2cf-cfdf-0c79-ffbf-46cf305209d6
 resourcetype: Document
 title: 945talkreiman.pdf
 uid: a1c09cec-bda3-e356-37e5-34de82eee042

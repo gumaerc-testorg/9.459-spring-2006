@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d76c2cf-cfdf-0c79-ffbf-46cf305209d6
 resourcetype: Document
 title: 920talkserre.pdf
 uid: 4f7b49c8-b333-679f-9058-f352265135ea

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d76c2cf-cfdf-0c79-ffbf-46cf305209d6
 resourcetype: Document
 title: 1110tlkevnstrsmn.pdf
 uid: 7fe76021-22a3-b76e-9b8b-905e61f0c7a4

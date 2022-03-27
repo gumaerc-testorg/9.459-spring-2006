@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 84aeefbe-fdef-f451-c05b-0bf70eb2ee35
 resourcetype: Document
 title: 920paper1.pdf
 uid: 0cbf8c72-476d-9e69-62a2-47a164dafb55

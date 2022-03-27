@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d76c2cf-cfdf-0c79-ffbf-46cf305209d6
 resourcetype: Document
 title: 1350tlktorralba.pdf
 uid: 3b646e7a-6464-9c80-13eb-00d9db1813b1

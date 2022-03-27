@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d76c2cf-cfdf-0c79-ffbf-46cf305209d6
 resourcetype: Document
 title: 1300tlkfeifei.pdf
 uid: 5eeedfe9-ba40-162c-4bd2-ad9fc1d3e1f5
