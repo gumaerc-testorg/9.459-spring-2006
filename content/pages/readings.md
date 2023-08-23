@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about additional reading materials
+  regarding the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -45,9 +47,9 @@ Opening Remarks
 From Zero to Gist in 200 msec: The Time Course of Scene Recognition
 {{< tdclose >}}
 {{< tdopen >}}
-Oliva, Aude, and Antonio Torralba. "Building the Gist of a Scene: The Role of Global Image Features in Recognition." ([PDF - 1.0 MB]({{< baseurl >}}/resources/900paper1))  
+Oliva, Aude, and Antonio Torralba. "Building the Gist of a Scene: The Role of Global Image Features in Recognition." ({{% resource_link 7071e712-650f-4866-d011-ddd8fbcb98c7 "PDF - 1.0 MB" %}})  
   
-Greene, Michelle R., and Aude Oliva. "Natural Scene Categorization from Conjunctions of Ecological Global Properties." ([PDF]({{< baseurl >}}/resources/900paper2))
+Greene, Michelle R., and Aude Oliva. "Natural Scene Categorization from Conjunctions of Ecological Global Properties." ({{% resource_link b8a94f03-5479-25ba-f982-a1098c7f5d9c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,9 +61,9 @@ Greene, Michelle R., and Aude Oliva. "Natural Scene Categorization from Conjunct
 Feedforward Theories of Visual Cortex Predict Human Performance in Rapid Image Categorization
 {{< tdclose >}}
 {{< tdopen >}}
-Serre, Thomas, Minjoon Kouh, Charles Cadieu, Ulf Knoblich, Gabriel Kreiman, and Tomaso Poggio. "A Theory of Object Recognition: Computations and Circuits in the Feedforward Path of the Ventral Stream in Primate Visual Cortex." ([PDF - 6.1 MB]({{< baseurl >}}/resources/920paper1))  
+Serre, Thomas, Minjoon Kouh, Charles Cadieu, Ulf Knoblich, Gabriel Kreiman, and Tomaso Poggio. "A Theory of Object Recognition: Computations and Circuits in the Feedforward Path of the Ventral Stream in Primate Visual Cortex." ({{% resource_link 0cbf8c72-476d-9e69-62a2-47a164dafb55 "PDF - 6.1 MB" %}})  
   
-Serre, Thomas, Lior Wolf, and Tomaso Poggio. "Object Recognition with Features Inspired by Visual Cortex." ([PDF]({{< baseurl >}}/resources/920paper2))
+Serre, Thomas, Lior Wolf, and Tomaso Poggio. "Object Recognition with Features Inspired by Visual Cortex." ({{% resource_link 47f229d5-66ee-a265-98cd-7388b87e7244 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,9 +155,9 @@ Using the Forest to See the Trees: A Computational Model Relating Features, Obje
 {{< tdopen >}}
 Torralba, Antonio. "Contextual Priming for Object Detection." _International Journal of Computer Vision_ 53 (2003): 169-191.  
   
-Murphy, Kevin, Antonio Torralba, and William T. Freeman. "Using the Forest to See the Trees: A Graphical Model Relating Features, Objects, and Scenes." ([PDF]({{< baseurl >}}/resources/1350paper2))  
+Murphy, Kevin, Antonio Torralba, and William T. Freeman. "Using the Forest to See the Trees: A Graphical Model Relating Features, Objects, and Scenes." ({{% resource_link d6875e84-d833-a3ce-bc00-8ad53ee6d267 "PDF" %}})  
   
-Oliva, Aude, Antonio Torralba, Monica S. Castelhano, and John M. Henderson. "Top Down Control of Visual Attention in Object Detection." ([PDF]({{< baseurl >}}/resources/1350paper3))
+Oliva, Aude, Antonio Torralba, Monica S. Castelhano, and John M. Henderson. "Top Down Control of Visual Attention in Object Detection." ({{% resource_link aa1afa33-9b12-cea1-3cd8-9e717093ffb9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +183,7 @@ Scene Perception after Those First Few Hundred Milliseconds
 {{< tdopen >}}
 Oliva, Aude, Jeremy M. Wolfe, and Helga C. Arsenio. "Panoramic Search: The Interaction of Memory and Vision in Search Through a Familiar Scene." _Journal of Experimental Psychology: Human Perception and Performance_ 30 (2004): 1132-1146.  
   
-Wolfe, Jeremy M. "Guided Search 4.0: Current Progress with a Model of Visual Search." ([PDF]({{< baseurl >}}/resources/1445paper2))
+Wolfe, Jeremy M. "Guided Search 4.0: Current Progress with a Model of Visual Search." ({{% resource_link 021e41b9-9d14-ed07-28a0-a13751fa8247 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
