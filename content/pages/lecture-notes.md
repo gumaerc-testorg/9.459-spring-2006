@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section gives an overview of lectures topics along
+  with their solutions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,7 +38,7 @@ Opening Remarks
 9:00-9:20
 {{< tdclose >}}
 {{< tdopen >}}
-From Zero to Gist in 200 msec: The Time Course of Scene Recognition ([PDF - 1.3 MB]({{< baseurl >}}/resources/900talkoliva)) (Courtesy of Aude Oliva and Michelle Greene.)
+From Zero to Gist in 200 msec: The Time Course of Scene Recognition ({{% resource_link c1821a76-c37a-31f4-8460-1fc0ba66a4fd "PDF - 1.3 MB" %}}) (Courtesy of Aude Oliva and Michelle Greene.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ From Zero to Gist in 200 msec: The Time Course of Scene Recognition ([PDF - 1.3 
 9:20-9:45
 {{< tdclose >}}
 {{< tdopen >}}
-Feedforward Theories of Visual Cortex Predict Human Performance in Rapid Image Categorization ([PDF - 4.4 MB]({{< baseurl >}}/resources/920talkserre)) (Courtesy of Thomas Serre and Tomaso Poggio.)
+Feedforward Theories of Visual Cortex Predict Human Performance in Rapid Image Categorization ({{% resource_link 4f7b49c8-b333-679f-9058-f352265135ea "PDF - 4.4 MB" %}}) (Courtesy of Thomas Serre and Tomaso Poggio.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ Feedforward Theories of Visual Cortex Predict Human Performance in Rapid Image C
 9:45-10:05
 {{< tdclose >}}
 {{< tdopen >}}
-Latency, Duration and Codes for Objects in Inferior Temporal Cortex ([PDF - 1.9 MB]({{< baseurl >}}/resources/945talkreiman)) (Courtesy of Gabriel Kreiman, Chou Hung, Tomaso Poggio and James DiCarlo.)
+Latency, Duration and Codes for Objects in Inferior Temporal Cortex ({{% resource_link a1c09cec-bda3-e356-37e5-34de82eee042 "PDF - 1.9 MB" %}}) (Courtesy of Gabriel Kreiman, Chou Hung, Tomaso Poggio and James DiCarlo.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Latency, Duration and Codes for Objects in Inferior Temporal Cortex ([PDF - 1.9 
 10:25-10:50
 {{< tdclose >}}
 {{< tdopen >}}
-From Feedforward Vision to Natural Vision: The Impact of Free Viewing, Task, and Clutter on Monkey Inferior Temporal Object Representations ([PDF - 1.6 MB]({{< baseurl >}}/resources/1025tlkdcarl)) (Courtesy of James DiCarlo.)
+From Feedforward Vision to Natural Vision: The Impact of Free Viewing, Task, and Clutter on Monkey Inferior Temporal Object Representations ({{% resource_link 2aa7fbca-7cd8-564c-1960-f7a5aa02b700 "PDF - 1.6 MB" %}}) (Courtesy of James DiCarlo.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Invariant Visual Representations of Natural Images by Single Neurons in the Huma
 11:10-11:40
 {{< tdclose >}}
 {{< tdopen >}}
-Perception of Objects in Natural Scenes and the Role of Attention ([PDF]({{< baseurl >}}/resources/1110tlkevnstrsmn)) (Courtesy of Karla Evans and Anne Treisman.)
+Perception of Objects in Natural Scenes and the Role of Attention ({{% resource_link 7fe76021-22a3-b76e-9b8b-905e61f0c7a4 "PDF" %}}) (Courtesy of Karla Evans and Anne Treisman.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +92,7 @@ Perception of Objects in Natural Scenes and the Role of Attention ([PDF]({{< bas
 1:00-1:25
 {{< tdclose >}}
 {{< tdopen >}}
-Natural Scene Categorization: From Humans to Computers ([PDF - 5.3 MB]({{< baseurl >}}/resources/1300tlkfeifei)) (Courtesy of Li Fei-Fei, Rufin VanRullen, Asha Iyer, Christof Koch and Pietro Perona.)
+Natural Scene Categorization: From Humans to Computers ({{% resource_link 5eeedfe9-ba40-162c-4bd2-ad9fc1d3e1f5 "PDF - 5.3 MB" %}}) (Courtesy of Li Fei-Fei, Rufin VanRullen, Asha Iyer, Christof Koch and Pietro Perona.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +110,7 @@ Contextual Associations in the Brain
 1:50-2:15
 {{< tdclose >}}
 {{< tdopen >}}
-Using the Forest to See the Trees: A Computational Model Relating Features, Objects and Scenes ([PDF - 1.2 MB]({{< baseurl >}}/resources/1350tlktorralba)) (Courtesy of Antonio Torralba, Kevin Murphy, and William T. Freeman.)
+Using the Forest to See the Trees: A Computational Model Relating Features, Objects and Scenes ({{% resource_link 3b646e7a-6464-9c80-13eb-00d9db1813b1 "PDF - 1.2 MB" %}}) (Courtesy of Antonio Torralba, Kevin Murphy, and William T. Freeman.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ Detecting and Remembering Pictures With and Without Visual Noise
 2:45-3:05
 {{< tdclose >}}
 {{< tdopen >}}
-Scene Perception after Those First Few Hundred Milliseconds ([PDF]({{< baseurl >}}/resources/1445tlkwolfe)) (Courtesy of Jeremy M. Wolfe.)
+Scene Perception after Those First Few Hundred Milliseconds ({{% resource_link dfacedf6-ab6f-bb93-f23d-07c6168c75e8 "PDF" %}}) (Courtesy of Jeremy M. Wolfe.)
 {{< tdclose >}}
 
 {{< trclose >}}

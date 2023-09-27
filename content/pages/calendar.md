@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the lecture topics covered in the course along with
+  the time and speakers.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
