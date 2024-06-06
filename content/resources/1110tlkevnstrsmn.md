@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains testable predictions, role of attention in natural
   scene categorization and category known vs. unknown.
 file: /courses/9-459-scene-understanding-symposium-spring-2006/7fe7602122a3b76e9b8b905e61f0c7a4_1110tlkevnstrsmn.pdf
+file_size: 163763
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
