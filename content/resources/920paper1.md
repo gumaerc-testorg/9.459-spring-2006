@@ -4,6 +4,7 @@ description: 'This resource contains quantitative framework for the ventral stre
   performance on natural images, visual areas and biophysics of the 2 basic operations:
   biologically plausible circuits for tuning and max.'
 file: /courses/9-459-scene-understanding-symposium-spring-2006/0cbf8c72476d9e6962a247a164dafb55_920paper1.pdf
+file_size: 6373344
 file_type: application/pdf
 learning_resource_types:
 - Readings
