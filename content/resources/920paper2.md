@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains C2 features, MIT-CBCL datasets and Caltech datasets.
-file: /ol-ocw-studio-app/courses/9-459-scene-understanding-symposium-spring-2006/47f229d566eea26598cd7388b87e7244_920paper2.pdf
+file: /courses/9-459-scene-understanding-symposium-spring-2006/47f229d566eea26598cd7388b87e7244_920paper2.pdf
 file_size: 423287
 file_type: application/pdf
 learning_resource_types:
