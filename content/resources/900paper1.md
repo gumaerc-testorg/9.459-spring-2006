@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains building a scene representation from global image
   features and building the gist of the scene from global features.
-file: /ol-ocw-studio-app/courses/9-459-scene-understanding-symposium-spring-2006/7071e712650f4866d011ddd8fbcb98c7_900paper1.pdf
+file: /courses/9-459-scene-understanding-symposium-spring-2006/7071e712650f4866d011ddd8fbcb98c7_900paper1.pdf
 file_size: 1061168
 file_type: application/pdf
 learning_resource_types:

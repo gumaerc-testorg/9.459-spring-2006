@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains images of stimulus presentation, reading the neuronal
   code, input to the classifier and decoding requires very few spikes.
-file: /ol-ocw-studio-app/courses/9-459-scene-understanding-symposium-spring-2006/a1c09cecbda3e35637e534de82eee042_945talkreiman.pdf
+file: /courses/9-459-scene-understanding-symposium-spring-2006/a1c09cecbda3e35637e534de82eee042_945talkreiman.pdf
 file_size: 2043071
 file_type: application/pdf
 learning_resource_types:
