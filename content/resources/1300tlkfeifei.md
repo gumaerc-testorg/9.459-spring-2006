@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains images on the tree, scene level, object level,
   local patch based idea, analogy to documents and segmentation by themes.
-file: /ol-ocw-studio-app/courses/9-459-scene-understanding-symposium-spring-2006/5eeedfe9ba40162c4bd2ad9fc1d3e1f5_1300tlkfeifei.pdf
+file: /courses/9-459-scene-understanding-symposium-spring-2006/5eeedfe9ba40162c4bd2ad9fc1d3e1f5_1300tlkfeifei.pdf
 file_size: 5531239
 file_type: application/pdf
 learning_resource_types:
